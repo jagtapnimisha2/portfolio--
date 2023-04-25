@@ -24,8 +24,8 @@ const Project=()=>{
         {
             id:0,
             src:imgport,
-            githublink:"https://github.com/jagtapnimisha2/Ineuron_assignment-01",
-            link:"https://jagtapnimisha2.github.io/Ineuron_assignment-01/"
+            githublink:"https://github.com/jagtapnimisha2/portfolio--",
+            link:"https://main--harmonious-stroopwafel-b4b833.netlify.app/"
         },
         {
             id:1,
