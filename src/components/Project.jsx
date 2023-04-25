@@ -25,7 +25,7 @@ const Project=()=>{
             id:0,
             src:imgport,
             githublink:"https://github.com/jagtapnimisha2/portfolio--",
-            link:"https://main--harmonious-stroopwafel-b4b833.netlify.app/"
+            link:"https://main--harmonious-stroopwafel-b4b833.netlify.app/" 
         },
         {
             id:1,
