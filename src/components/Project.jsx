@@ -19,6 +19,7 @@ import imag14 from "../components/image/imag14.png"
 import imag15 from "../components/image/imag15.png"
 import imag16 from "../components/image/imag16.png"
 import imag17 from "../components/image/imag17.png"
+import imag18 from "../components/image/imag18.jpeg"
 const Project=()=>{
     const Projects=[
         {
@@ -128,6 +129,12 @@ const Project=()=>{
             src:imag17,
             githublink:"https://github.com/jagtapnimisha2/Garbage_Bin__Major_Project",
             link:"https://smartgarbage-f4f3b.web.app"
+        },
+        {
+            id:18,
+            src:imag18,
+            githublink:"https://github.com/jagtapnimisha2/Searching-cookies-recipe-list?tab=readme-ov-a",
+            link:"https://searching-cookies-recipe.netlify.app/"
         }
     ]
     return(
