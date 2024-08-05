@@ -20,6 +20,7 @@ import imag15 from "../components/image/imag15.png"
 import imag16 from "../components/image/imag16.png"
 import imag17 from "../components/image/imag17.png"
 import imag18 from "../components/image/imag18.jpeg"
+import imag19 from "../components/image/imag19.jpeg"
 const Project=()=>{
     const Projects=[
         {
@@ -135,6 +136,12 @@ const Project=()=>{
             src:imag18,
             githublink:"https://github.com/jagtapnimisha2/Searching-cookies-recipe-list?tab=readme-ov-a",
             link:"https://searching-cookies-recipe.netlify.app/"
+        },
+        {
+            id:19,
+            src:imag19,
+            githublink:"https://github.com/jagtapnimisha2/imdb-main1",
+            link:"https://clone-moviess.netlify.app/"
         }
     ]
     return(
