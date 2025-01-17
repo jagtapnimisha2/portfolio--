@@ -146,7 +146,7 @@ const Project=()=>{
     ]
     return(
  <div
-    name="Project"
+    name="project"
     className="bg-gradient-to-b from-black to-gray-800 w-full h-full
     text-white md:h-screen lg:h-full
     ">
