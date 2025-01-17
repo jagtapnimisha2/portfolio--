@@ -26,7 +26,7 @@ const Home = () => {
           </p>
           <div className="flex justify-center md:justify-start">
             <Link
-              to="Project"
+              to="project"
               smooth
               duration={500}
               className="group text-white w-fit px-6 py-3 flex items-center rounded-md bg-gradient-to-r from-red-500 to-red-300 cursor-pointer"
