@@ -7,6 +7,7 @@ import i5 from '../components/image/petspra.png';
 import i6 from '../components/image/ivory.png';
 import i7 from '../components/image/kashishjoshi.png';
 import i8 from '../components/image/radito.png';
+import i9 from '../components/image/apon-recods.png';
 import './Home.css'
 
 const Experience = () => {
@@ -69,12 +70,21 @@ const Experience = () => {
             link: 'https://kashishjoshiresearch.com/',
         },
         {
+            
             id: 8,
             src: i8,
             title: 'reddito capital',
             style: 'shadow-white',
             githublink: 'https://redditocapital.netlify.app/',
             link: 'https://redditocapital.netlify.app/',
+        },
+        {
+            id: 9,
+            src: i9,
+            title: 'Apon Record Music ',
+            style: 'shadow-white',
+            githublink: 'https://github.com/jagtapnimisha2/Apon_Records-main',
+            link: 'https://symphonious-mooncake-559553.netlify.app/',
         },
     ];
 
